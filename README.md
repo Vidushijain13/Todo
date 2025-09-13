@@ -18,6 +18,12 @@ This project helps you **add**, **delete**, and **manage tasks** efficiently, an
 PROJECT1_TODO_LIST
 
 |- index.html # Main HTML file (UI structure)
+
+
 |- style.css # CSS file for styling
+
+
 |- script.js # JavaScript file with app logic
+
+
 |_ README.md # Project documentation
